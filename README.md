@@ -21,3 +21,4 @@ Command | Description | Usage
 `emojilist` | Get the emoji list of this server | `+emojilist`
 `find` | Find and add an emoji | `+find (nameofanemoji)`
 `emoji` | Get info of an emoji | `+emoji (nameemoji)`
+-------------------
