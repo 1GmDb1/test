@@ -2,11 +2,9 @@
 **Emoji Manager**
 ===================
 
-[![forthebadge](https://forthebadge.com/images/featured/featured-gluten-free.svg)](https://forthebadge.com)
-
 **Emoji management** commands :) (using discordemoji.com)
 
->[Bot Invite](https://discordapp.com/api/oauth2/authorize?client_id=515193679732801536&permissions=1073741824&scope=bot)
+-->[Invite](https://discordapp.com/api/oauth2/authorize?client_id=515193679732801536&permissions=1073741824&scope=bot)
 
 Commands List
 -------------------
