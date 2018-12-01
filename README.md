@@ -8,7 +8,7 @@
 
 -------------------
 
-### Emoji Commands###
+### Emoji Commands
 Command | Description | Usage
 --- | --- | ---
 `rename` | Rename an emoji | `+rename (emoji) (newname)`
