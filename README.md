@@ -6,7 +6,6 @@
 
 -->[Invite](https://discordapp.com/api/oauth2/authorize?client_id=515193679732801536&permissions=1073741824&scope=bot)
 
-Commands List
 -------------------
 
 ### Emoji Commands###
